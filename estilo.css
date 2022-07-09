@@ -1,0 +1,67 @@
+body {
+    background-color: pink;
+}
+
+div{
+    background-color: purple;
+    width: 1200px;
+    height: 860px;
+    margin:auto;
+    border: solid black;
+}
+
+p{
+    font:Serif;
+    text-align: justify;
+}
+
+.h4{
+    text-align: center;
+}
+
+.h3{
+    text-align: center;
+    color:red;
+}
+
+.h2{
+    text-align: right;
+    color: black;
+}
+
+.seg{
+    color: magenta;
+}
+
+.ref{
+    color:black;
+}
+
+.titulo{
+    text-align: center;
+    text-shadow: 2px 2px white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.imagen{
+    width: 250px;
+    height: 200px;
+    display: block;
+    margin: auto;
+}
+
+.division{
+    border-style: dotted;
+    border-color: red;
+    width: 280px;
+    height: 850px;
+    float:left;
+    margin: auto;
+    text-align: justify;
+    padding: 5px;
+}
+
+.parrafo{
+    margin: 2px;
+}
+
